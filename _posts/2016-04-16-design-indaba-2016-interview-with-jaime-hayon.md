@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T16:54:34.753Z'
+datePublished: '2016-08-03T17:02:33.391Z'
 sourcePath: _posts/2016-04-16-design-indaba-2016-interview-with-jaime-hayon.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T16:54:34.350Z'
+dateModified: '2016-08-03T17:02:32.761Z'
 title: '1658 Lynn St. NW Jasper, FL 32052'
 app_links: []
 publisher: {}
@@ -36,7 +36,7 @@ _type: MediaObject
 3 beds - 1.5 baths - 1350 sq ft
 
 $79,000
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e2e18d9-ccfe-4930-ad53-bbdedcc79540.jpg)
+![$79,000](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e2e18d9-ccfe-4930-ad53-bbdedcc79540.jpg)
 
 **PERFECT FAMILY 3BR/1.5 BATH HOME THAT HAS BEEN TASTEFULLY UPDATED AND READY TO SELL. IT HAS A FAMILY ROOM, LIVING ROOM, DINING ROOM & BRIGHT SPACIOUS KITCHEN. THE SCREENED BACK PORCH IS PERFECT FOR THOSE FAMILY GET TOGETHERS & BBQs. HAS A FUNCTIONAL WELL THAT YOU CAN USE TO WATER YOUR GARDEN & YARD.**
 
