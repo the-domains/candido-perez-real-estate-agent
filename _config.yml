@@ -12,5 +12,9 @@ color:
     - '#363942'
 layout_spectrum: 0.6668956871144474
 name: Let Me Help You Buy Or Sell
+navigation:
+  - name: Like Us On Facebook
+    url: 'https://www.facebook.com/RealEstateAgentCandidoPerez/'
+    type: external
 title: Candido Perez - Real Estate Agent
 description: Serving Hamilton County and the Surrounding Areas
